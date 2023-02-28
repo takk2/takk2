@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Takk2&fontColor=ffffff)
 
 <!--
 **takk2/takk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
