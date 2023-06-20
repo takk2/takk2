@@ -2,5 +2,4 @@
 
 <br/>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=takk2&show_icons=true)
   
